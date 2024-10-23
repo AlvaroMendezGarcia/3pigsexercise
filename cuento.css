@@ -1,0 +1,38 @@
+header{
+    text-align: center; 
+    background-color: antiquewhite;
+} 
+
+h2{ 
+    text-align: center;
+}  
+.casas{ 
+    text-align: center;
+}
+
+.paja{
+    width: 200px; 
+    
+} 
+.madera{ 
+    width: 200px; 
+   
+} 
+.piedra{ 
+    width: 200px; 
+    
+} 
+
+.lobo{  
+    
+    width: 300px; 
+    
+} 
+.centrar{ 
+    text-align: center;
+} 
+.hermanos{  
+    text-align: center;
+    width: 300px 
+    
+}
